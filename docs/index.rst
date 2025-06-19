@@ -1,4 +1,4 @@
-How Do I Uninstall Trend Micro Antivirus Without a Password?
+How to Uninstall Trend Micro Antivirus Without a Password?
 ============================================
 .
 .
